@@ -1,5 +1,5 @@
 <h1 align="">Hi 👋, I'm Abdullah</h1>
-<h3 align="">A passionate Python developer mainly interested and focused on Django, Flask and Reactjs.</h3>
+<h3 align="">I am a autonomous learner passionate about web and mobile app development (WIP 😁). I am a Python developer mainly interested and focused on Django, Flask, ReactJs and AWS.</h3>
 <h3 align="">Currently learning React Native, Flutter and Laravel</h3>
 
 - 🔭 I’m currently working on [descentralized marketplace](https://github.com/aawan2805/marketplace_dapp)
